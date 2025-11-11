@@ -84,7 +84,7 @@ h4,
 h5,
 h6 {
   color: var(--heading-color);
-  font-family: var(--heading-font);
+  /* font-family: var(--heading-font); */
 }
 
 /* Pulsating Play Button
@@ -778,7 +778,7 @@ section,
   margin: 10px 0 0 0;
   font-size: 32px;
   font-weight: 700;
-  font-family: var(--heading-font);
+  /* font-family: var(--heading-font); */
 }
 
 .section-title div .description-title {
@@ -1595,7 +1595,7 @@ section,
 
 .testimonials .testimonial-item .testimonial-img {
   width: 100px;
-  border-radius: 50%;
+  /* border-radius: 50%; */
   border: 6px solid color-mix(in srgb, var(--default-color), transparent 85%);
   margin: 0 auto;
 }
